@@ -1,13 +1,13 @@
 ## eit_txtout_mod
 
-2sen.jp ‚Å up0813.zip ‚Æ‚µ‚ÄŒöŠJ‚³‚ê‚½ eit_txtout ‚Ì mod ƒo[ƒWƒ‡ƒ“‚Å‚·B  
-ƒIƒŠƒWƒiƒ‹‚ÌŽÀsƒtƒ@ƒCƒ‹‚ÆƒhƒLƒ…ƒƒ“ƒg‚Í orig ƒfƒBƒŒƒNƒgƒŠ‚É’u‚¢‚Ä‚¢‚Ü‚·B  
-Žg—p•û–@‚»‚Ì‘¼‚Í‚»‚¿‚ç‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+2sen.jp ã§ up0813.zip ã¨ã—ã¦å…¬é–‹ã•ã‚ŒãŸ eit_txtout ã® mod ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™ã€‚  
+ã‚ªãƒªã‚¸ãƒŠãƒ«ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã¨ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã¯ orig ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç½®ã„ã¦ã„ã¾ã™ã€‚  
+ä½¿ç”¨æ–¹æ³•ãã®ä»–ã¯ãã¡ã‚‰ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
 
-### ƒIƒŠƒWƒiƒ‹‚©‚ç‚Ì•ÏX“_
-* up0827 ‚ÌC³ˆÄ‚ð“K—pB
+### ã‚ªãƒªã‚¸ãƒŠãƒ«ã‹ã‚‰ã®å¤‰æ›´ç‚¹
+* up0827 ã®ä¿®æ­£æ¡ˆã‚’é©ç”¨ã€‚
 
-> MJDHMS‚©‚çTIME_JST40‚Ö‚Ì•ÏŠ·ˆ—‚ðC³  
-> ƒWƒƒƒ“ƒ‹=Šg’£‚Ìê‡‚ÍŽŸ‚ðŒ©‚é
+> MJDHMSã‹ã‚‰TIME_JST40ã¸ã®å¤‰æ›å‡¦ç†ã‚’ä¿®æ­£  
+> ã‚¸ãƒ£ãƒ³ãƒ«=æ‹¡å¼µã®å ´åˆã¯æ¬¡ã‚’è¦‹ã‚‹
 
-* ‰üs•¶Žš‚ª–³Ž‹‚³‚ê‚Ä‚¢‚½‚Ì‚ðA\n ‚Æ‚µ‚Äo—Í‚·‚é‚æ‚¤‚É‚µ‚½B
+* æ”¹è¡Œæ–‡å­—ãŒç„¡è¦–ã•ã‚Œã¦ã„ãŸã®ã‚’ã€\n ã¨ã—ã¦å‡ºåŠ›ã™ã‚‹ã‚ˆã†ã«ã—ãŸã€‚
